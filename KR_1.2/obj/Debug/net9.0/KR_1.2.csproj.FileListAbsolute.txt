@@ -1,0 +1,15 @@
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/KR_1.2/bin/Debug/net9.0/KR_1.2
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/KR_1.2/bin/Debug/net9.0/KR_1.2.deps.json
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/KR_1.2/bin/Debug/net9.0/KR_1.2.runtimeconfig.json
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/KR_1.2/bin/Debug/net9.0/KR_1.2.dll
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/KR_1.2/bin/Debug/net9.0/KR_1.2.pdb
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/KR_1.2/obj/Debug/net9.0/KR_1.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/KR_1.2/obj/Debug/net9.0/KR_1.2.AssemblyInfoInputs.cache
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/KR_1.2/obj/Debug/net9.0/KR_1.2.AssemblyInfo.cs
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/KR_1.2/obj/Debug/net9.0/KR_1.2.csproj.CoreCompileInputs.cache
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/KR_1.2/obj/Debug/net9.0/KR_1.2.sourcelink.json
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/KR_1.2/obj/Debug/net9.0/KR_1.2.dll
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/KR_1.2/obj/Debug/net9.0/refint/KR_1.2.dll
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/KR_1.2/obj/Debug/net9.0/KR_1.2.pdb
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/KR_1.2/obj/Debug/net9.0/KR_1.2.genruntimeconfig.cache
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/KR_1.2/obj/Debug/net9.0/ref/KR_1.2.dll

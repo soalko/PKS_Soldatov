@@ -1,0 +1,48 @@
+using System;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        Console.Write("Введите номер дня недели, с которого начинается месяц (1-пн,...7-вс): ");
+        int week = Convert.ToInt32(Console.ReadLine());
+        while (week is < 1 or > 7)
+        {
+            Console.WriteLine("Ошибка! Введите еще раз");
+            week = Convert.ToInt32(Console.ReadLine());
+        }
+
+        Console.Write("Введите день месяца: ");
+        int month = Convert.ToInt32(Console.ReadLine());
+        while (month is < 1 or > 31)
+        {
+            Console.WriteLine("Ошибка! Введите еще раз");
+            month = Convert.ToInt32(Console.ReadLine());
+        }
+
+        Console.WriteLine("-----Проверяем, выходной ли день-----");
+        if (month <= 8 - week)
+        {
+            if (month + week >= 7)
+            {
+                Console.WriteLine("Выходной день");
+            }
+            else
+            {
+                Console.WriteLine("Будний день");
+            }
+        }
+        else
+        {
+            int dd = (month + week - 1) % 7;
+            if (dd is 6 or 0)
+            {
+                Console.WriteLine("Выходной день");
+            }
+            else
+            {
+                Console.WriteLine("Будний день");
+            }
+        }
+    }
+}

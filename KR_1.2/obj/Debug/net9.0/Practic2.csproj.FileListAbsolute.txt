@@ -1,0 +1,15 @@
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Practic2/bin/Debug/net9.0/Practic2
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Practic2/bin/Debug/net9.0/Practic2.deps.json
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Practic2/bin/Debug/net9.0/Practic2.runtimeconfig.json
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Practic2/bin/Debug/net9.0/Practic2.dll
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Practic2/bin/Debug/net9.0/Practic2.pdb
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Practic2/obj/Debug/net9.0/Practic2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Practic2/obj/Debug/net9.0/Practic2.AssemblyInfoInputs.cache
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Practic2/obj/Debug/net9.0/Practic2.AssemblyInfo.cs
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Practic2/obj/Debug/net9.0/Practic2.csproj.CoreCompileInputs.cache
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Practic2/obj/Debug/net9.0/Practic2.sourcelink.json
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Practic2/obj/Debug/net9.0/Practic2.dll
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Practic2/obj/Debug/net9.0/refint/Practic2.dll
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Practic2/obj/Debug/net9.0/Practic2.pdb
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Practic2/obj/Debug/net9.0/Practic2.genruntimeconfig.cache
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Practic2/obj/Debug/net9.0/ref/Practic2.dll

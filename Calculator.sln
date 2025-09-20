@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{7768D2BA-E293-45FB-A798-A3420E50FE89}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator_1.1", "Calculator_1.1\Calculator_1.1.csproj", "{7768D2BA-E293-45FB-A798-A3420E50FE89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KR_1.2", "KR_1.2\KR_1.2.csproj", "{D603B40E-02EB-42E7-8FCF-CC11FC94FED4}"
+EndProjectw
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{7768D2BA-E293-45FB-A798-A3420E50FE89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7768D2BA-E293-45FB-A798-A3420E50FE89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7768D2BA-E293-45FB-A798-A3420E50FE89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D603B40E-02EB-42E7-8FCF-CC11FC94FED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D603B40E-02EB-42E7-8FCF-CC11FC94FED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D603B40E-02EB-42E7-8FCF-CC11FC94FED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D603B40E-02EB-42E7-8FCF-CC11FC94FED4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

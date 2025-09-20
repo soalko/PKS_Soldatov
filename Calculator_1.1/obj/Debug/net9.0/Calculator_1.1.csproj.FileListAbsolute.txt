@@ -1,0 +1,15 @@
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Calculator_1.1/bin/Debug/net9.0/Calculator_1.1
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Calculator_1.1/bin/Debug/net9.0/Calculator_1.1.deps.json
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Calculator_1.1/bin/Debug/net9.0/Calculator_1.1.runtimeconfig.json
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Calculator_1.1/bin/Debug/net9.0/Calculator_1.1.dll
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Calculator_1.1/bin/Debug/net9.0/Calculator_1.1.pdb
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Calculator_1.1/obj/Debug/net9.0/Calculator_1.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Calculator_1.1/obj/Debug/net9.0/Calculator_1.1.AssemblyInfoInputs.cache
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Calculator_1.1/obj/Debug/net9.0/Calculator_1.1.AssemblyInfo.cs
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Calculator_1.1/obj/Debug/net9.0/Calculator_1.1.csproj.CoreCompileInputs.cache
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Calculator_1.1/obj/Debug/net9.0/Calculator_1.1.sourcelink.json
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Calculator_1.1/obj/Debug/net9.0/Calculator_1.1.dll
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Calculator_1.1/obj/Debug/net9.0/refint/Calculator_1.1.dll
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Calculator_1.1/obj/Debug/net9.0/Calculator_1.1.pdb
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Calculator_1.1/obj/Debug/net9.0/Calculator_1.1.genruntimeconfig.cache
+/Users/soldatov_a/RiderProjects/SoldatovProjects/Calculator/Calculator_1.1/obj/Debug/net9.0/ref/Calculator_1.1.dll
